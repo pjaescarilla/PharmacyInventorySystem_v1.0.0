@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "42031946226",
+    "firebase_url": "https://pharmacyinventorysystem.firebaseio.com",
+    "project_id": "pharmacyinventorysystem",
+    "storage_bucket": "pharmacyinventorysystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42031946226:android:587d516d80dbdc1c1c736b",
+        "android_client_info": {
+          "package_name": "com.example.pharmacyinventorysystem_v100"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42031946226-n47j6kugclogh3b60bovgghqcqm08a5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm9NSTlqB0JYa_DsZU6_8ybK0Pji7JeuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42031946226-n47j6kugclogh3b60bovgghqcqm08a5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

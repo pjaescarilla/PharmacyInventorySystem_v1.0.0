@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">PharmacyInventorySystem_v1.0.0</string>
+
+    // Buttons
+    <string name="buttonAddItem">Add New Item</string>
+    <string name="buttonIncreaseStock">Increase Stock</string>
+    <string name="buttonSell">Sell</string>
+    <string name="buttonSubmit">Submit</string>
+    <string name="buttonCancel">Cancel</string>
+    <string name="buttonDecrease">Decrease Stock</string>
+    <string name="buttonRegister">Register</string>
+
+    // Headers
+    <string name="headerIncreaseStock">Increase Stock</string>
+    <string name="headerAddItem">Add New Item</string>
+    <string name="headerSell">Sell Item</string>
+
+    // User Input Labels
+    <string name="labelBranch">Branch:</string>
+    <string name="labelProduct">Product:</string>
+    <string name="labelPackaging">Packaging:</string>
+    <string name="labelQuantity">Quantity:</string>
+    <string name="labelExpiryDate">Expiry Date:</string>
+    <string name="labelInStock">In Stock:</string>
+    <string name="labelTotal">In Stock (Total):</string>
+    <string name="labelSelectDate">Select Date</string>
+    <string name="labelDrugGroup">Drug Group</string>
+    <string name="labelLTOO">Lead Time of Ordering:</string>
+    <string name="labelAUPD">Average Use Per Day:</string>
+    <string name="labelOrderCost">Ordering Cost:</string>
+    <string name="labelHoldCost">Holding Cost Per Unit:</string>
+    <string name="labelAnnualDemand">Annual Demand:</string>
+    <string name="labelEOO">Economic Order Quantity:</string>
+    <string name="labelReorderPoint">Reorder Point:</string>
+    <string name="labelProductionDate">Production Date:</string>
+    <string name="labelCreateAccountPrompt">New user? Create account here</string>
+
+    // Packaging
+    <array name="listPackaging">
+        <item>Select Packaging</item>
+        <item>box</item>
+        <item>bottle</item>
+        <item>pack</item>
+        <item>2x5 blister pack</item>
+        <item>Others</item>
+    </array>
+
+    // Branches
+    <array name="listBranches">
+        <item>Select Branch</item>
+        <item>Admiral</item>
+        <item>Almanza</item>
+        <item>CAA</item>
+        <item>Philam</item>
+        <item>VC</item>
+    </array>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>

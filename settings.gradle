@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='PharmacyInventorySystem_v1.0.0'
